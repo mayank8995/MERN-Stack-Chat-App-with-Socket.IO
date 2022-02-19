@@ -1,2 +1,3 @@
-# MERN-Stack-Chat-App-with-Socket.IO
-MERN Stack Chat App with Socket.IO
+#React-jest-and-enzyme
+React-jest-and-enzyme
+
